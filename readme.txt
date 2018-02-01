@@ -5,4 +5,5 @@ Git tracks changes.
 happy
 
 Creating a new branch is quick AND simple.
+new
 
